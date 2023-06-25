@@ -1,0 +1,29 @@
+div {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: 1px solid black;
+
+}
+
+.container{
+    width: 100%;
+    height: auto;
+
+}
+.redcolor{
+    background-color: red;
+}
+
+.bluecolor{
+    background-color: rgb(104, 192, 235);
+}
+
+.greencolor{
+    background-color: rgb(154, 237, 154);
+}
+
+.yellowcolor{
+    background-color: yellow;
+}
+
